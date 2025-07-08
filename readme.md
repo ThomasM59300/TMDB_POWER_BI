@@ -7,6 +7,8 @@
 
 *Projet d'analyse de données utilisant Power BI pour visualiser les tendances de l'industrie cinématographique*
 
+Important : Ce repository est une refonte de mon ancien repository déjà existant sur ce projet, il contient donc plusieurs améliorations par rapport au précédent, notamment sur la documentation, l'aspect visuel du readme et une améliorations des fichiers SQL.
+
 ## 🎬 Aperçu du projet
 
 Tableau de bord interactif analysant les données de films via l'API TMDb, révélant des insights sur la rentabilité, les genres populaires et les performances des réalisateurs. Ce projet démontre une approche complète d'analyse de données, de l'extraction à la visualisation.
